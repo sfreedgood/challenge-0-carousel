@@ -78,3 +78,7 @@ main blockquote:before {
 main blockquote p {
   display: inline;
 }
+
+.image {
+  transition-duration: .5s;
+}
