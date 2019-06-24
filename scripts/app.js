@@ -10,7 +10,7 @@ let i = 0
 console.log(urls)
 console.log(carousel)
 
-window.setInterval(changeSlide, 2000)
+window.setInterval(changeSlide, 3000)
 
 function changeSlide () {
   console.log(i)
